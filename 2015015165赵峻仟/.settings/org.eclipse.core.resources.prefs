@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/jsps/cart/list.jsp=UTF-8
+encoding//WebRoot/jsps/left.jsp=UTF-8
+encoding//WebRoot/jsps/msg.jsp=UTF-8
+encoding//src/cn/itcast/goods/admin/admin/web/servlet/AdminServlet.java=UTF-8
+encoding//src/cn/itcast/goods/admin/book/web/servlet/AdminAddBookServlet.java=UTF-8
+encoding//src/cn/itcast/goods/admin/book/web/servlet/AdminBookServlet.java=UTF-8
+encoding//src/cn/itcast/goods/admin/category/web/servlet/AdminCategoryServlet.java=UTF-8
+encoding//src/cn/itcast/goods/admin/web/servlet/AdminOrderServlet.java=UTF-8
